@@ -7,7 +7,11 @@
 }
 
 body {
+<<<<<<< HEAD
     background-color: #adbcbc;
+=======
+    background-color: #70c6c7;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .resume-contents {
@@ -21,13 +25,21 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
+<<<<<<< HEAD
     background-color: #28323d;
+=======
+    background-color: #00204A;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
+<<<<<<< HEAD
     background-color: #061420;
+=======
+    background-color: #4B6982;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,13 +49,21 @@ body {
 
 .profile {
     width: 100%;
+<<<<<<< HEAD
     border-bottom: 2px solid #446897;
+=======
+    border-bottom: 2px solid #1B2631;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
+<<<<<<< HEAD
     border: 8px solid #051d2b;
+=======
+    border: 8px solid #1B2631;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .name {
@@ -57,7 +77,11 @@ body {
 }
 
 .profession {
+<<<<<<< HEAD
     color: #8ae1e9;
+=======
+    color: #FDB44B;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +92,11 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
+<<<<<<< HEAD
     color: #73dbd6;
+=======
+    color: #FDB44B;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -87,7 +115,11 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     color: #ffffffaf;
+=======
+    color: #d6dbdfaf;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -96,7 +128,11 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
+<<<<<<< HEAD
     color: #6cf2ce;
+=======
+    color: #2E86C1;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .skills ul {
@@ -104,7 +140,11 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
+<<<<<<< HEAD
     color: #ffffffaf;
+=======
+    color: #d6dbdfaf;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
@@ -116,14 +156,22 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
+<<<<<<< HEAD
     color: #08eb04;
+=======
+    color: #F9E79F;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     letter-spacing: 1px;
     text-transform: uppercase;
 }
 
 .referance-profession {
     font-size: 16px;
+<<<<<<< HEAD
     color: #078fffaf;
+=======
+    color: #d6dbdfaf;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     letter-spacing: 1px;
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
@@ -153,7 +201,11 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
+<<<<<<< HEAD
     color: #efefef;
+=======
+    color: #F1F8FD;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
 }
 
 .experience-contents,
@@ -172,7 +224,11 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
+<<<<<<< HEAD
     color: #ebb339;
+=======
+    color: #FDB44B;
+>>>>>>> 1d5501f3661b3da41f9069f7abb0b5c41424ae91
     padding-bottom: .4rem;
 }
 
