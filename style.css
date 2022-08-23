@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #60bcbf;
+    background-color: #adbcbc;
 }
 
 .resume-contents {
@@ -21,13 +21,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #28323d;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #617b81;
+    background-color: #061420;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -37,17 +37,17 @@ body {
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #f2f2f2;
+    border-bottom: 2px solid #446897;
 }
 
 .profile .profile-image {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #e5e6e6;
+    border: 8px solid #051d2b;
 }
 
 .name {
-    color: #D6DBDF;
+    color: #d7d7d7;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -57,7 +57,7 @@ body {
 }
 
 .profession {
-    color: #aca33b;
+    color: #8ae1e9;
     font-size: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -68,7 +68,7 @@ body {
 
 /* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
-    color: #FDB44B;
+    color: #73dbd6;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -87,7 +87,7 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #d6dbdfaf;
+    color: #ffffffaf;
     letter-spacing: 1px;
     font-size: 18px;
 }
@@ -96,7 +96,7 @@ body {
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #2E86C1;
+    color: #6cf2ce;
 }
 
 .skills ul {
@@ -104,7 +104,7 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #d6dbdfaf;
+    color: #ffffffaf;
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
@@ -116,14 +116,14 @@ body {
     padding-top: 1.5rem;
     padding-bottom: .4rem;
     font-size: 18px;
-    color: #F9E79F;
+    color: #08eb04;
     letter-spacing: 1px;
     text-transform: uppercase;
 }
 
 .referance-profession {
     font-size: 16px;
-    color: #d6dbdfaf;
+    color: #078fffaf;
     letter-spacing: 1px;
     /* text-transform: uppercase; */
     padding-bottom: .4rem;
@@ -135,7 +135,7 @@ body {
 }
 
 .right-title {
-    color: #1d2121;
+    color: #70C6C7;
     font-size: 40px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -153,7 +153,7 @@ body {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
-    color: #F1F8FD;
+    color: #efefef;
 }
 
 .experience-contents,
@@ -172,7 +172,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FDB44B;
+    color: #ebb339;
     padding-bottom: .4rem;
 }
 
